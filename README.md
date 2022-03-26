@@ -3,4 +3,4 @@ Repositório criado para o Desafio de Projeto.
 
 
 ## Links Úteis
-[Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
+[Começando o aprendizado com HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
